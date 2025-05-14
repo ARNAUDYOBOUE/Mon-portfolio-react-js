@@ -64,4 +64,32 @@ code {
 .profile-image {
    width: "50px";
     border-radius: "50%";}
-     
+
+section {
+    padding: 30px 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+#about-me {
+    background-color: #f9f9f9;
+}
+
+#skills {
+    background-color: #e9ecef;
+}
+
+#projects {
+    background-color: #f8f9fa;
+}
+
+#experiences {
+    background-color: #ffffff;
+}
+
+#services {
+    background-color: #f1f1f1;
+}
+
+html {
+    scroll-behavior: smooth;
+}
